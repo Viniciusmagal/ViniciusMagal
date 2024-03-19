@@ -1,7 +1,6 @@
 Olá, Sou Vinicius Magalhães!
 ---
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-
 - 🖥️ Estou atualmente estudando programação na USF
 - desenvolvedor
 - 📧 Contate-me: lucavimagal@gmail.com

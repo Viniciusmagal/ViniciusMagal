@@ -1,5 +1,4 @@
 Olá, Sou Vinicius Magalhães!
-
 ---
 
 - 🖥️ Estou atualmente estudando programação na USF
